@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace CECS475_Nathanielwpfmvvm.View
 {
     /// <summary>
-    /// Interaction logic for NathanielSenderView.xaml
+    /// Interaction logic for NathanielReceiverView.xaml
     /// </summary>
-    public partial class NathanielSenderView : UserControl
+    public partial class NathanielReceiverView : UserControl
     {
-        public NathanielSenderView()
+        public NathanielReceiverView()
         {
             InitializeComponent();
         }
