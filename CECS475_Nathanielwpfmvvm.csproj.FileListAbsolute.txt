@@ -1,0 +1,8 @@
+C:\Users\neyt\source\repos\CECS475_Nathanielwpfmvvm\CECS475_Nathanielwpfmvvm\obj\Debug\CECS475_Nathanielwpfmvvm.csprojAssemblyReference.cache
+C:\Users\neyt\source\repos\CECS475_Nathanielwpfmvvm\CECS475_Nathanielwpfmvvm\obj\Debug\MainWindow.g.cs
+C:\Users\neyt\source\repos\CECS475_Nathanielwpfmvvm\CECS475_Nathanielwpfmvvm\obj\Debug\View\NathanielReceiverView.g.cs
+C:\Users\neyt\source\repos\CECS475_Nathanielwpfmvvm\CECS475_Nathanielwpfmvvm\obj\Debug\View\NathanielSenderView.g.cs
+C:\Users\neyt\source\repos\CECS475_Nathanielwpfmvvm\CECS475_Nathanielwpfmvvm\obj\Debug\App.g.cs
+C:\Users\neyt\source\repos\CECS475_Nathanielwpfmvvm\CECS475_Nathanielwpfmvvm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\neyt\source\repos\CECS475_Nathanielwpfmvvm\CECS475_Nathanielwpfmvvm\obj\Debug\CECS475_Nathanielwpfmvvm_MarkupCompile.cache
+C:\Users\neyt\source\repos\CECS475_Nathanielwpfmvvm\CECS475_Nathanielwpfmvvm\obj\Debug\CECS475_Nathanielwpfmvvm_MarkupCompile.lref
